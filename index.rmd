@@ -8,27 +8,42 @@ output:
       collapsed: false
       smooth_scroll: true
       number_sections: true
+# output: github_document
 bibliography: bibliography.bib
 ---
+
 [ORCID](https://orcid.org/0000-0003-4170-1447)
 
 [Google Scholar](https://scholar.google.it/citations?user=0PfEpdkAAAAJ&hl=it)
 
 [Sapienza, Università di Roma - Dipartimento MEMOTEF](https://web.uniroma1.it/memotef/users/arcagni-alberto)
 
-# Ricerca
+<!--
+# Didattica
 
-### Articoli, capitoli di libro e conferenze
+## Sapienza
+
+### Statistica corso base
+
+### Computational Tools For Finance
+
+### Dottorato
+-->
+
+# Ricarca
+
+## Pubblicazioni
 
 ---
 nocite: '@*'
 ---
 <div id="refs"></div>
 
-### Tesi di dottorato
-
+**Tesi di dottorato**:
 [Arcagni, A. (2011)](https://boa.unimib.it/handle/10281/25757). La deterninazione dei parametri di un nuovo modello distributivo per variabili non negative: aspetti metodologici e applicazioni.
 
-# Didattica
+## Pacchetti R
 
-## 2020
+* [sBF](https://cran.r-project.org/web/packages/sBF/index.html): Smooth Backfitting
+* [parsec](https://cran.r-project.org/web/packages/parsec/index.html): Partial Orders in Socio-Economics
+* [ineqJD](https://cran.r-project.org/web/packages/ineqJD/index.html): Inequality Joint Decomposition
