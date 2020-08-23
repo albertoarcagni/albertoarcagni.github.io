@@ -11,11 +11,60 @@ output:
 ---
 [ORCID](https://orcid.org/0000-0003-4170-1447)
 
+[Google Scholar](https://scholar.google.it/citations?user=0PfEpdkAAAAJ&hl=it)
+
 [Sapienza, Università di Roma - Dipartimento MEMOTEF](https://web.uniroma1.it/memotef/users/arcagni-alberto)
 
 # Ricerca
 
-## Articoli pubblicati
+## Pubblicazioni
+
+### Articoli, capitoli di libro e conferenze
+
+#### 2020
+
+* [Alaimo, L. S., Arcagni, A., Fattore, M., Maggino, F., & Quondamstefano, V. (2020)](https://link.springer.com/article/10.1007%2Fs11205-020-02388-7). Measuring Equitable and Sustainable Well-Being in Italian Regions: The Non-aggregative Approach. Social Indicators Research: An International and Interdisciplinary Journal for Quality-of-Life Measurement, 1-23.
+
+#### 2015
+
+* [Arcagni, A., & Porro, F. (2015)](http://meetings.sis-statistica.org/index.php/ginilegacy/SIS2015/paper/view/3503). On the income distribution models and inequality curves. In Statistics and Demography: the Legacy of Corrado Gini.
+
+#### 2014
+
+* [Fattore, M., Arcagni, A., & Barberis, S. (2014)](http://www.scielo.org.co/scielo.php?pid=S0120-17512014000200010&script=sci_arttext&tlng=pt). Visualizing partially ordered sets for socioeconomic analysis. Revista Colombiana de Estadística, 37(2), 437-450.
+* [Arcagni, A., & Porro, F. (2014)](http://www.scielo.org.co/scielo.php?pid=S0120-17512014000200009&script=sci_arttext&tlng=en). The graphical representation of inequality. Revista Colombiana de estadistica, 37(2), 419-437.
+* [Arcagni, A. (2014)](https://boa.unimib.it/handle/10281/75496). Income Distribution at Flint: A Comparison of the Inequality with Other American Cities.. Intervento presentato a: Flint One City 100 Years Under Variability.
+* [Arcagni, A. (2014)](https://boa.unimib.it/handle/10281/75552). Zenga distribution: parameters estimation with contraints on synthetic inequality indices.
+* [Fattore, M., Busetta, A., Mendola, D., & Arcagni, A. (2014)](https://pdfs.semanticscholar.org/3b86/adb3403c645f09a2a605485463fe70e4b7cd.pdf). A fuzzy approach to multidimensional Material Deprivation measurement: the case of foreigners living in Italy. In European Population Conference. HU.
+* [Arcagni, A., & Zenga, M. (2014)](https://boa.unimib.it/handle/10281/75510). Decomposition by sources of the ξ inequality index. Intervento presentato a: Scientific Meeting of the Italian Statistical Society­ - 11/13 june, Cagliari, Italia.
+* [Fattore, M., & Arcagni, A. (2014)](https://link.springer.com/chapter/10.1007/978-1-4614-8223-9_15). PARSEC: an R package for poset-based evaluation of multidimensional poverty. In Multi-indicator systems and modelling in partial order (pp. 317-330). Springer, New York, NY.
+* [Fattore, M., Grassi, R., & Arcagni, A. (2014)](https://link.springer.com/chapter/10.1007/978-1-4614-8223-9_4). Measuring structural dissimilarity between finite partial orders. In Multi-indicator systems and modelling in partial order (pp. 69-84). Springer, New York, NY.
+
+#### 2013
+
+* [Arcagni, A., & Porro, F. (2013)](https://link.springer.com/content/pdf/10.1007/s10260-012-0219-y.pdf). On the parameters of Zenga distribution. Statistical Methods & Applications, 22(3), 285-303.
+* [Fattore, M., & Arcagni, A. (2013)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.888.9323&rep=rep1&type=pdf). Measuring multidimensional polarization with ordinal data. In SIS 2013 statistical conference, BES-M3.
+* [Arcagni, A., & Zenga, M. (2013)](https://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=18246672&AN=93730659&h=DvqZV6JAMWKIKMpAPiDroqEuRUe0yuvCBD7EJIjxkCf4xEt8Znkp3XJB7XR1jl0YjZs%2b%2fkqCTh5rZNgiSr8ccQ%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d18246672%26AN%3d93730659). Application of Zenga's distribution to a panel survey on household incomes of European Member States. Statistica & Applicazioni, 11(1).
+
+#### 2012
+
+* [Zenga, M., & Arcagni, A. (2012)](https://boa.unimib.it/handle/10281/41819). Application of Zenga’s distribution to a panel survey on household incomes of European Member States.
+
+#### 2011
+
+* [Zenga, M., & Arcagni, A. (2011)](http://www.2011.isiproceedings.org/papers/950968.pdf). Estimating the three parameters of Zenga’s distribution for income by size. In 58th ISI World Statistics Congress.
+
+#### 2010
+
+* [Zenga, M., Porro, F., & Arcagni, A. (2010)](https://boa.unimib.it/retrieve/handle/10281/17530/21462/Method_of_moments_for_Zengas_distribution.pdf). Method of moments for Zenga's distribution.
+
+#### 2009
+
+* [Arcagni, A., & Bagnato, L. (2009)](https://boa.unimib.it/handle/10281/43246). Smooth Backfitting with R.
+
+### Tesi di dottorato
+
+* [Arcagni, A. (2011)](https://boa.unimib.it/handle/10281/25757). La deterninazione dei parametri di un nuovo modello distributivo per variabili non negative: aspetti metodologici e applicazioni.
 
 # Didattica
 
