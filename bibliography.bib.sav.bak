@@ -1,0 +1,133 @@
+% Encoding: UTF-8
+
+@InCollection{Fattore2014,
+  author    = {Fattore, Marco and Arcagni, Alberto},
+  booktitle = {Multi-indicator systems and modelling in partial order},
+  publisher = {Springer},
+  title     = {PARSEC: an R package for poset-based evaluation of multidimensional poverty},
+  year      = {2014},
+  pages     = {317--330},
+}
+
+@Article{Fattore2018,
+  author    = {Fattore, Marco and Arcagni, Alberto},
+  journal   = {Social Indicators Research},
+  title     = {A reduced posetic approach to the measurement of multidimensional ordinal deprivation},
+  year      = {2018},
+  number    = {3},
+  pages     = {1053--1070},
+  volume    = {136},
+  publisher = {Springer},
+}
+
+@Article{Arcagni2014,
+  author    = {Arcagni, Alberto and Porro, Francesco},
+  journal   = {Revista Colombiana de estadistica},
+  title     = {The graphical representation of inequality},
+  year      = {2014},
+  number    = {2},
+  pages     = {419--437},
+  volume    = {37},
+  publisher = {Universidad Nacional de Colombia.},
+}
+
+@Article{Arcagni2013,
+  author  = {Arcagni, Alberto and Zenga, Michele},
+  journal = {Statistica \& Applicazioni},
+  title   = {Application of Zenga's distribution to a panel survey on household incomes of European Member States.},
+  year    = {2013},
+  number  = {1},
+  volume  = {11},
+}
+
+@Article{Fattore2015,
+  author  = {Fattore, Marco and Maggino, Filomena and Arcagni, Alberto},
+  journal = {Statistics in Transition new series},
+  title   = {Exploiting ordinal data for subjective well-being evaluation},
+  year    = {2015},
+  number  = {16},
+  pages   = {409--428},
+  volume  = {3},
+}
+
+@Article{Arcagni2013a,
+  author    = {Arcagni, Alberto and Porro, Francesco},
+  journal   = {Statistical Methods \& Applications},
+  title     = {On the parameters of Zenga distribution},
+  year      = {2013},
+  number    = {3},
+  pages     = {285--303},
+  volume    = {22},
+  publisher = {Springer},
+}
+
+@Article{Arcagni2017,
+  author    = {Arcagni, Alberto and Grassi, Rosanna and Stefani, Silvana and Torriero, Anna},
+  journal   = {European Journal of Operational Research},
+  title     = {Higher order assortativity in complex networks},
+  year      = {2017},
+  number    = {2},
+  pages     = {708--719},
+  volume    = {262},
+  publisher = {Elsevier},
+}
+
+@Article{Arcagni2019,
+  author    = {Arcagni, Alberto and di Belgiojoso, Elisa Barbiano and Fattore, Marco and Rimoldi, Stefania ML},
+  journal   = {Social Indicators Research},
+  title     = {Multidimensional analysis of deprivation and fragility patterns of migrants in Lombardy, using partially ordered sets and self-organizing maps},
+  year      = {2019},
+  number    = {2},
+  pages     = {551--579},
+  volume    = {141},
+  publisher = {Springer},
+}
+
+@Article{Arcagni2017a,
+  author    = {Arcagni, Alberto},
+  journal   = {Statistical Methods \& Applications},
+  title     = {On the decomposition by sources of the Zenga 1984 point and synthetic inequality indexes},
+  year      = {2017},
+  number    = {1},
+  pages     = {113--133},
+  volume    = {26},
+  publisher = {Springer},
+}
+
+@InProceedings{Arcagni2014a,
+  author    = {Arcagni, A and Zenga, M},
+  booktitle = {Scientific Meeting of the Italian Statistical Society-11/13 june},
+  title     = {Decomposition by sources of the $\xi$ inequality index},
+  year      = {2014},
+}
+
+@InCollection{Fattore2014a,
+  author    = {Fattore, Marco and Grassi, Rosanna and Arcagni, Alberto},
+  booktitle = {Multi-indicator systems and modelling in partial order},
+  publisher = {Springer},
+  title     = {Measuring structural dissimilarity between finite partial orders},
+  year      = {2014},
+  pages     = {69--84},
+}
+
+@Article{Sonubi2016,
+  author    = {Sonubi, A and Arcagni, A and Stefani, S and Ausloos, M},
+  journal   = {Physical Review E},
+  title     = {Effects of competition and cooperation interaction between agents on networks in the presence of a market capacity},
+  year      = {2016},
+  number    = {2},
+  pages     = {022303},
+  volume    = {94},
+  publisher = {APS},
+}
+
+@InCollection{Fattore2016,
+  author    = {Fattore, Marco and Maggino, Filomena and Arcagni, Alberto},
+  booktitle = {Topics in theoretical and applied statistics},
+  publisher = {Springer},
+  title     = {Non-aggregative assessment of subjective well-being},
+  year      = {2016},
+  pages     = {227--237},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
