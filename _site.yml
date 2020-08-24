@@ -1,0 +1,6 @@
+name: Alberto Arcagni
+navbar:
+    title: "Alberto Arcagni"
+    left:
+      - text: "Home"
+        href: index.html
