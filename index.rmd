@@ -2,7 +2,9 @@
 title: Alberto Arcagni
 # output: github_document
 ---
-
+```{R echo = FALSE, include = FALSE}
+library(parsec)
+```
 ```{R}
 library(parsec)
 profiles <- var2prof(varlen = c(2, 2, 2))
