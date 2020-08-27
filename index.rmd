@@ -4,7 +4,8 @@ title: Alberto Arcagni
 ---
 
 ```{R}
-profiles <- parsec::var2prof(varlen = c(2, 2, 2))
+library(parsec)
+profiles <- var2prof(varlen = c(2, 2, 2))
 plot(profiles)
 ```
 
