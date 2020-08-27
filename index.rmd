@@ -3,6 +3,11 @@ title: Alberto Arcagni
 # output: github_document
 ---
 
+```{R}
+profiles <- parsec::var2prof(varlen = c(2, 2, 2))
+plot(profiles)
+```
+
 # External links
 
 * [Sapienza, Università di Roma - Dipartimento MEMOTEF](https://web.uniroma1.it/memotef/users/arcagni-alberto)
