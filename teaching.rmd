@@ -1,0 +1,24 @@
+---
+title: Software development
+output:
+  html_document:
+    # keep_md: true
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: true
+      number_sections: true
+---
+
+# Sapienza, Università di Roma
+
+## 2020
+
+### Statistica corso base (serale)
+
+### Computational tools for finance
+
+## 2019
+
+* [Statistica corso base (serale)](https://web.uniroma1.it/memotef/en/statistica-corso-base-corso-serale-arcagni)
+* [Computational tools for finance](https://web.uniroma1.it/memotef/en/computational-tools-finance-lm-finass-arcagni)

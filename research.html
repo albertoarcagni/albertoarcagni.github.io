@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Research</title>
+
+<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Alberto Arcagni</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="development.html">Software development</a>
+</li>
+<li>
+  <a href="teaching.html">Teaching</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Research</h1>
+
+</div>
+
+
+<div id="publications" class="section level1">
+<h1>Publications</h1>
+<div id="refs" class="references hanging-indent">
+<div id="ref-alaimo2019aiquav">
+<p>Alaimo, Leonardo Salvatore, Alberto Arcagni, Enrico Di Bella, Filomena Maggino, and Marco Trapani. 2019. “AIQUAV 2019: VI Convegno Nazionale Dell’Associazione Italiana Per Gli Studi Sulla Qualità Della Vita: Benessere Collettivo E Scelte Individuali: Fiesole (Fi), 12-14 Dicembre 2019: Libro Dei Contenuti Brevi.” <em>AIQUAV 2019</em>, 1–284. <a href="https://gup.unige.it/node/300">https://gup.unige.it/node/300</a>.</p>
+</div>
+<div id="ref-alaimo2020synthesis">
+<p>Alaimo, Leonardo Salvatore, Alberto Arcagni, Marco Fattore, and Filomena Maggino. 2020. “Synthesis of Multi-Indicator System over Time: A Poset-Based Approach.” <em>Social Indicators Research</em>, 1–23.</p>
+</div>
+<div id="ref-alaimomeasuring">
+<p>Alaimo, Leonardo Salvatore, Alberto Arcagni, Marco Fattore, Filomena Maggino, and Valeria Quondamstefano. 2020. “Measuring Equitable and Sustainable Well-Being in Italian Regions: The Non-Aggregative Approach.” <a href="https://doi.org/10.1007/s11205-020-02388-7">https://doi.org/10.1007/s11205-020-02388-7</a>.</p>
+</div>
+<div id="ref-arcagni2014income">
+<p>Arcagni, Alberto. 2014a. “Income Distribution at Flint: A Comparison of the Inequality with Other American Cities.” In <em>Flint One City 100 Years Under Variability</em>.</p>
+</div>
+<div id="ref-Arcagni2014b">
+<p>———. 2014b. “Zenga Distribution: Parameters Estimation with Contraints on Synthetic Inequality Indices.”</p>
+</div>
+<div id="ref-Arcagni2017a">
+<p>———. 2017a. “On the Decomposition by Sources of the Zenga 1984 Point and Synthetic Inequality Indexes.” <em>Statistical Methods &amp; Applications</em> 26 (1): 113–33.</p>
+</div>
+<div id="ref-Arcagni2017b">
+<p>———. 2017b. “PARSEC: An R Package for Partial Orders in Socio-Economics.” In <em>Partial Order Concepts in Applied Sciences</em>, 275–89. Springer.</p>
+</div>
+<div id="ref-arcagni2009smooth">
+<p>Arcagni, Alberto, and Luca Bagnato. 2009. “Smooth Backfitting with R.”</p>
+</div>
+<div id="ref-arcagni2017nuovo">
+<p>Arcagni, Alberto, Elisa Barbiano di Belgiojoso, Marco Fattore, and Stefania Maria Lorenza Rimoldi. 2017. “Un Nuovo Approccio Per La Valutazione Della Povertà Tra Gli Stranieri Attraverso Variabili Ordinali.” In <em>Giornate Di Studio Sulla Popolazione 2017</em>.</p>
+</div>
+<div id="ref-arcagni2018analyzing">
+<p>———. 2018. “Analyzing Deprivation and Fragility Patterns of Migrants in Lombardy, Using Partially Ordered Sets and Self-Organizing Maps.” In <em>European Population Conference 2018</em>. EAPS.</p>
+</div>
+<div id="ref-Arcagni2019">
+<p>———. 2019. “Multidimensional Analysis of Deprivation and Fragility Patterns of Migrants in Lombardy, Using Partially Ordered Sets and Self-Organizing Maps.” <em>Social Indicators Research</em> 141 (2): 551–79.</p>
+</div>
+<div id="ref-Arcagni2017">
+<p>Arcagni, Alberto, Rosanna Grassi, Silvana Stefani, and Anna Torriero. 2017. “Higher Order Assortativity in Complex Networks.” <em>European Journal of Operational Research</em> 262 (2): 708–19. <a href="https://doi.org/10.1016/j.ejor.2017.04.028">https://doi.org/10.1016/j.ejor.2017.04.028</a>.</p>
+</div>
+<div id="ref-arcagni2019extending">
+<p>———. 2019. “Extending Assortativity: An Application to Weighted Social Networks.” <em>Journal of Business Research</em>. <a href="https://doi.org/10.1016/j.jbusres.2019.10.008">https://doi.org/10.1016/j.jbusres.2019.10.008</a>.</p>
+</div>
+<div id="ref-Arcagni2013a">
+<p>Arcagni, Alberto, and Francesco Porro. 2013. “On the Parameters of Zenga Distribution.” <em>Statistical Methods &amp; Applications</em> 22 (3): 285–303.</p>
+</div>
+<div id="ref-Arcagni2014">
+<p>———. 2014. “The Graphical Representation of Inequality.” <em>Revista Colombiana de Estadistica</em> 37 (2): 419–37. <a href="https://doi.org/10.15446/rce.v37n2spe.47947">https://doi.org/10.15446/rce.v37n2spe.47947</a>.</p>
+</div>
+<div id="ref-Arcagni2016">
+<p>———. 2016. “A Comparison of Income Distributions Models Through Inequality Curves.” <em>Statistica &amp; Applicazioni</em> 14 (2).</p>
+</div>
+<div id="ref-Arcagni2013">
+<p>Arcagni, Alberto, and Michele Zenga. 2013. “Application of Zenga’s Distribution to a Panel Survey on Household Incomes of European Member States.” <em>Statistica &amp; Applicazioni</em> 11 (1).</p>
+</div>
+<div id="ref-Arcagni2014a">
+<p>———. 2014. “Decomposition by Sources of the <span class="math inline">\(\xi\)</span> Inequality Index.” In <em>Scientific Meeting of the Italian Statistical Society-11/13 June</em>.</p>
+</div>
+<div id="ref-Fattore2013">
+<p>Fattore, Marco, and Alberto Arcagni. 2013. “Measuring Multidimensional Polarization with Ordinal Data.” In <em>SIS 2013 Statistical Conference, Bes-M3</em>. Citeseer.</p>
+</div>
+<div id="ref-Fattore2014">
+<p>———. 2014. “PARSEC: An R Package for Poset-Based Evaluation of Multidimensional Poverty.” In <em>Multi-Indicator Systems and Modelling in Partial Order</em>, 317–30. Springer.</p>
+</div>
+<div id="ref-Fattore2018">
+<p>———. 2018a. “A Reduced Posetic Approach to the Measurement of Multidimensional Ordinal Deprivation.” <em>Social Indicators Research</em> 136 (3): 1053–70.</p>
+</div>
+<div id="ref-fattore2018using">
+<p>———. 2018b. “Using Mutual Ranking Probabilities for Dimensionality Reduction and Ranking Extraction in Multidimensional Systems of Ordinal Variables.”</p>
+</div>
+<div id="ref-Fattore2019">
+<p>———. 2019. “F-Fod: Fuzzy First Order Dominance Analysis and Populations Ranking over Ordinal Multi-Indicator Systems.” <em>Social Indicators Research</em> 144 (1): 1–29.</p>
+</div>
+<div id="ref-Fattore2014b">
+<p>Fattore, Marco, Alberto Arcagni, and Stefano Barberis. 2014. “Visualizing Partially Ordered Sets for Socioeconomic Analysis.” <em>Revista Colombiana de Estadı́stica</em> 37 (2): 437–50. <a href="https://doi.org/10.15446/rce.v37n2spe.47948">https://doi.org/10.15446/rce.v37n2spe.47948</a>.</p>
+</div>
+<div id="ref-Fattore2019a">
+<p>Fattore, Marco, Alberto Arcagni, and Filomena Maggino. 2019. “Optimal Scoring of Partially Ordered Data, with an Application to the Ranking of Smart Cities.”</p>
+</div>
+<div id="ref-fattore2014fuzzy">
+<p>Fattore, Marco, Annalisa Busetta, Daria Mendola, and Alberto Arcagni. 2014. “A Fuzzy Approach to Multidimensional Material Deprivation Measurement: The Case of Foreigners Living in Italy.” In <em>EPC 2014 Budapest, Hungary, 25-28 June 2014</em>.</p>
+</div>
+<div id="ref-Fattore2014a">
+<p>Fattore, Marco, Rosanna Grassi, and Alberto Arcagni. 2014. “Measuring Structural Dissimilarity Between Finite Partial Orders.” In <em>Multi-Indicator Systems and Modelling in Partial Order</em>, 69–84. Springer.</p>
+</div>
+<div id="ref-Fattore2015">
+<p>Fattore, Marco, Filomena Maggino, and Alberto Arcagni. 2015. “Exploiting Ordinal Data for Subjective Well-Being Evaluation.” <em>Statistics in Transition New Series</em> 3 (16): 409–28. <a href="https://doi.org/10.21307/stattrans-2015-023">https://doi.org/10.21307/stattrans-2015-023</a>.</p>
+</div>
+<div id="ref-Fattore2016">
+<p>———. 2016. “Non-Aggregative Assessment of Subjective Well-Being.” In <em>Topics in Theoretical and Applied Statistics</em>, 227–37. Springer. <a href="https://doi.org/10.1007/978-3-319-27274-0_20">https://doi.org/10.1007/978-3-319-27274-0_20</a>.</p>
+</div>
+<div id="ref-Grassi2015">
+<p>Grassi, Rosanna, Marco Fattore, and Alberto Arcagni. 2015. “Structural and Non-Structural Temporal Evolution of Socio-Economic Real Networks.” <em>Quality &amp; Quantity</em> 49 (4): 1597–1608.</p>
+</div>
+<div id="ref-Rimoldi2020">
+<p>Rimoldi, Stefania Maria Lorenza, Alberto Arcagni, Marco Fattore, and Laura Terzera. 2020. “Social and Material Vulnerability of the Italian Municipalities: Comparing Alternative Approaches.” <em>Social Indicators Research: An International and Interdisciplinary Journal for Quality-of-Life Measurement</em>, 1–18. <a href="https://doi.org/10.1007/s11205-020-02330-x">https://doi.org/10.1007/s11205-020-02330-x</a>.</p>
+</div>
+<div id="ref-Simin2018">
+<p>Simin, P Toranj, Gholam Reza Jafari, Marcel Ausloos, Cesar Federico Caiafa, Facundo Caram, Adeyemi Sonubi, Alberto Arcagni, and Silvana Stefani. 2018. “Dynamical Phase Diagrams of a Love Capacity Constrained Prey–Predator Model.” <em>The European Physical Journal B</em> 91 (2): 1–18. <a href="https://doi.org/10.1140/epjb/e2017-80531-7">https://doi.org/10.1140/epjb/e2017-80531-7</a>.</p>
+</div>
+<div id="ref-Sonubi2016">
+<p>Sonubi, Adeyemi, Alberto Arcagni, Silvana Stefani, and Marcel Ausloos. 2016. “Effects of Competition and Cooperation Interaction Between Agents on Networks in the Presence of a Market Capacity.” <em>Physical Review E</em> 94 (2): 022303. <a href="https://doi.org/10.1103/physreve.94.022303">https://doi.org/10.1103/physreve.94.022303</a>.</p>
+</div>
+<div id="ref-zenga2011estimating">
+<p>Zenga, Michele, and Alberto Arcagni. 2011. “Estimating the Three Parameters of Zenga’s Distribution for Income by Size.” In <em>Int. Statistical Inst.: Proc. 58th World Statistical Congress, 2011, Dublin (Session Cps016)</em>.</p>
+</div>
+<div id="ref-zenga2012application">
+<p>———. 2012. “Application of Zenga’s Distribution to a Panel Survey on Household Incomes of European Member States.”</p>
+</div>
+<div id="ref-Zenga2010">
+<p>Zenga, Michele, Francesco Porro, and Alberto Arcagni. 2010. “Method of Moments for Zenga’s Distribution.”</p>
+</div>
+</div>
+</div>
+<div id="phd-thesis" class="section level1">
+<h1>PhD Thesis</h1>
+<p><a href="Phd_unimib_047930.pdf">Arcagni, A. (2011)</a>. La deterninazione dei parametri di un nuovo modello distributivo per variabili non negative: aspetti metodologici e applicazioni. <a href="https://boa.unimib.it/handle/10281/25757">Università di Milano-Bicocca</a>.</p>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

@@ -9,10 +9,9 @@ output:
       smooth_scroll: true
       number_sections: true
 # output: github_document
-bibliography: bibliography.bib
 ---
 
-# Link
+# External links
 
 * [Sapienza, Università di Roma - Dipartimento MEMOTEF](https://web.uniroma1.it/memotef/users/arcagni-alberto)
 * [ORCID](https://orcid.org/0000-0003-4170-1447)
@@ -29,21 +28,3 @@ bibliography: bibliography.bib
 
 ### Dottorato
 -->
-
-# Ricarca
-
-## Pubblicazioni
-
----
-nocite: '@*'
----
-<div id="refs"></div>
-
-**Tesi di dottorato**:
-[Arcagni, A. (2011)](https://boa.unimib.it/handle/10281/25757). La deterninazione dei parametri di un nuovo modello distributivo per variabili non negative: aspetti metodologici e applicazioni.
-
-## Pacchetti R
-
-* [sBF](https://cran.r-project.org/web/packages/sBF/index.html): Smooth Backfitting
-* [parsec](https://cran.r-project.org/web/packages/parsec/index.html): Partial Orders in Socio-Economics
-* [ineqJD](https://cran.r-project.org/web/packages/ineqJD/index.html): Inequality Joint Decomposition
