@@ -21,4 +21,4 @@ output:
 ## 2019
 
 * [Statistica corso base (serale)](https://web.uniroma1.it/memotef/en/statistica-corso-base-corso-serale-arcagni)
-* [Computational tools for finance](https://web.uniroma1.it/memotef/en/computational-tools-finance-lm-finass-arcagni) 
+* [Computational tools for finance](https://web.uniroma1.it/memotef/en/computational-tools-finance-lm-finass-arcagni)
