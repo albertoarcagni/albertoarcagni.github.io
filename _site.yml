@@ -11,3 +11,4 @@ navbar:
       - text: "Teaching"
         href: "teaching.html"
 output_dir: "."
+output: html_document
