@@ -1,0 +1,52 @@
+
+R version 4.0.2 (2020-06-22) -- "Taking Off Again"
+Copyright (C) 2020 The R Foundation for Statistical Computing
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+
+R è un software libero ed è rilasciato SENZA ALCUNA GARANZIA.
+Siamo ben lieti se potrai redistribuirlo, ma sotto certe condizioni.
+Scrivi 'license()' o 'licence()' per dettagli su come distribuirlo.
+
+R è un progetto di collaborazione con molti contributi esterni.
+Scrivi 'contributors()' per maggiori informazioni e 'citation()'
+per sapere come citare R o i pacchetti di R nelle pubblicazioni.
+
+Scrivi 'demo()' per una dimostrazione, 'help()' per la guida in linea, o
+'help.start()' per l'help navigabile con browser HTML.
+Scrivi 'q()' per uscire da R.
+
+> rmarkdown::render_site()
+
+Rendering: ./development.rmd
+  |                                                                              |                                                                      |   0%  |                                                                              |......................................................................| 100%
+  ordinary text without R code
+
+
+"D:/Pandoc/pandoc" +RTS -K512m -RTS development.utf8.md --to html4 --from markdown+autolink_bare_uris+tex_math_single_backslash --output development.html --email-obfuscation none --standalone --section-divs --table-of-contents --toc-depth 3 --variable toc_float=1 --variable toc_selectors=h1,h2,h3 --variable toc_smooth_scroll=1 --variable toc_print=1 --template "D:\R-4.0.2\library\rmarkdown\rmd\h\default.html" --no-highlight --variable highlightjs=1 --include-before-body "C:\Users\Utente\AppData\Local\Temp\RtmpMj30Kn\rmarkdown-str49b02df57693.html" --variable navbar=1 --variable body_padding=51 --variable header_padding=56 --variable "theme:bootstrap" --include-in-header "C:\Users\Utente\AppData\Local\Temp\RtmpMj30Kn\rmarkdown-str49b027b975ce.html" --mathjax --variable "mathjax-url:https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" --lua-filter "D:/R-4.0.2/library/rmarkdown/rmd/lua/pagebreak.lua" --lua-filter "D:/R-4.0.2/library/rmarkdown/rmd/lua/latex-div.lua" 
+
+Rendering: ./index.rmd
+  |                                                                              |                                                                      |   0%  |                                                                              |......................................................................| 100%
+  ordinary text without R code
+
+
+"D:/Pandoc/pandoc" +RTS -K512m -RTS index.utf8.md --to html4 --from markdown+autolink_bare_uris+tex_math_single_backslash --output index.html --email-obfuscation none --standalone --section-divs --table-of-contents --toc-depth 3 --variable toc_float=1 --variable toc_selectors=h1,h2,h3 --variable toc_smooth_scroll=1 --variable toc_print=1 --template "D:\R-4.0.2\library\rmarkdown\rmd\h\default.html" --no-highlight --variable highlightjs=1 --include-before-body "C:\Users\Utente\AppData\Local\Temp\RtmpMj30Kn\rmarkdown-str49b0298e64ae.html" --variable navbar=1 --variable body_padding=51 --variable header_padding=56 --variable "theme:bootstrap" --include-in-header "C:\Users\Utente\AppData\Local\Temp\RtmpMj30Kn\rmarkdown-str49b090b1fab.html" --mathjax --variable "mathjax-url:https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" --lua-filter "D:/R-4.0.2/library/rmarkdown/rmd/lua/pagebreak.lua" --lua-filter "D:/R-4.0.2/library/rmarkdown/rmd/lua/latex-div.lua" 
+
+Rendering: ./research.rmd
+  |                                                                              |                                                                      |   0%  |                                                                              |......................................................................| 100%
+  ordinary text without R code
+
+
+"D:/Pandoc/pandoc" +RTS -K512m -RTS research.utf8.md --to html4 --from markdown+autolink_bare_uris+tex_math_single_backslash --output research.html --email-obfuscation none --standalone --section-divs --table-of-contents --toc-depth 3 --variable toc_float=1 --variable toc_selectors=h1,h2,h3 --variable toc_smooth_scroll=1 --variable toc_print=1 --template "D:\R-4.0.2\library\rmarkdown\rmd\h\default.html" --no-highlight --variable highlightjs=1 --include-before-body "C:\Users\Utente\AppData\Local\Temp\RtmpMj30Kn\rmarkdown-str49b05fb323b0.html" --variable navbar=1 --variable body_padding=51 --variable header_padding=56 --variable "theme:bootstrap" --include-in-header "C:\Users\Utente\AppData\Local\Temp\RtmpMj30Kn\rmarkdown-str49b03f167317.html" --mathjax --variable "mathjax-url:https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" --lua-filter "D:/R-4.0.2/library/rmarkdown/rmd/lua/pagebreak.lua" --lua-filter "D:/R-4.0.2/library/rmarkdown/rmd/lua/latex-div.lua" --filter "D:/Pandoc/pandoc-citeproc.exe" 
+
+Rendering: ./teaching.rmd
+  |                                                                              |                                                                      |   0%  |                                                                              |......................................................................| 100%
+  ordinary text without R code
+
+
+"D:/Pandoc/pandoc" +RTS -K512m -RTS teaching.utf8.md --to html4 --from markdown+autolink_bare_uris+tex_math_single_backslash --output teaching.html --email-obfuscation none --standalone --section-divs --table-of-contents --toc-depth 3 --variable toc_float=1 --variable toc_selectors=h1,h2,h3 --variable toc_smooth_scroll=1 --variable toc_print=1 --template "D:\R-4.0.2\library\rmarkdown\rmd\h\default.html" --no-highlight --variable highlightjs=1 --include-before-body "C:\Users\Utente\AppData\Local\Temp\RtmpMj30Kn\rmarkdown-str49b02c3557b1.html" --variable navbar=1 --variable body_padding=51 --variable header_padding=56 --variable "theme:bootstrap" --include-in-header "C:\Users\Utente\AppData\Local\Temp\RtmpMj30Kn\rmarkdown-str49b07dc05c5d.html" --mathjax --variable "mathjax-url:https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" --lua-filter "D:/R-4.0.2/library/rmarkdown/rmd/lua/pagebreak.lua" --lua-filter "D:/R-4.0.2/library/rmarkdown/rmd/lua/latex-div.lua" 
+
+Output created: index.html
+> 
+> proc.time()
+   user  system elapsed 
+   0.46    0.62    4.34 
