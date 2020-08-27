@@ -1,13 +1,5 @@
 ---
 title: Alberto Arcagni
-output:
-  html_document:
-    # keep_md: true
-    toc: true
-    toc_float:
-      collapsed: false
-      smooth_scroll: true
-      number_sections: true
 # output: github_document
 ---
 

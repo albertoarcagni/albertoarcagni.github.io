@@ -11,4 +11,11 @@ navbar:
       - text: "Teaching"
         href: "teaching.html"
 output_dir: "."
-output: html_document
+output:
+  html_document:
+    # keep_md: true
+    toc: true
+    toc_float:
+      collapsed: false
+      smooth_scroll: true
+      number_sections: true
