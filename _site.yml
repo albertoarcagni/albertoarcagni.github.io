@@ -13,6 +13,8 @@ navbar:
 output_dir: "."
 output:
   html_document:
+    theme: default # yeti # sandstone # cosmo
+    highlight: default
     # keep_md: true
     toc: true
     toc_float:
