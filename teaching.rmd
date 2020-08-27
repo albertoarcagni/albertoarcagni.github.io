@@ -12,5 +12,8 @@ title: Software development
 
 ## 2019
 
-* [Statistica corso base (serale)](https://web.uniroma1.it/memotef/en/statistica-corso-base-corso-serale-arcagni)
-* [Computational tools for finance](https://web.uniroma1.it/memotef/en/computational-tools-finance-lm-finass-arcagni)
+### Statistica corso base (serale)
+Fare riferimento alla pagina del sito [Sapienza](https://web.uniroma1.it/memotef/en/statistica-corso-base-corso-serale-arcagni)
+
+### Computational tools for finance
+Fare riferimento alla pagina del sito [Sapienza](https://web.uniroma1.it/memotef/en/computational-tools-finance-lm-finass-arcagni)
