@@ -5,7 +5,10 @@ title: Alberto Arcagni
 ```{R, echo = FALSE, include = FALSE}
 library(parsec)
 ```
-```{R}
+<!---
+fig.width = 10
+-->
+```{R, fig.align = "center", fig.cap = "Hasse diagram of a product order"}
 library(parsec)
 profiles <- var2prof(varlen = c(2, 2, 2))
 plot(profiles)
