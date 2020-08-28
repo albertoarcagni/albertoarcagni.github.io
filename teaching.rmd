@@ -4,16 +4,10 @@ title: Teaching
 
 # Sapienza, Università di Roma
 
-## 2020
+## Statistica corso base (serale)
 
-### Statistica corso base (serale)
+Per l'anno accademico 2019/20 fare riferimento al [sito Sapienza](https://web.uniroma1.it/memotef/en/statistica-corso-base-corso-serale-arcagni).
 
-### Computational tools for finance
+## Computational tools for finance
 
-## 2019
-
-### Statistica corso base (serale)
-Fare riferimento al [sito Sapienza](https://web.uniroma1.it/memotef/en/statistica-corso-base-corso-serale-arcagni).
-
-### Computational tools for finance
-Refer to the [Sapienza website](https://web.uniroma1.it/memotef/en/computational-tools-finance-lm-finass-arcagni).
+For the academic year 2019/20 refer to the [Sapienza website](https://web.uniroma1.it/memotef/en/computational-tools-finance-lm-finass-arcagni).

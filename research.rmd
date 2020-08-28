@@ -12,4 +12,4 @@ nocite: '@*'
 
 # PhD Thesis
 
-[Arcagni, A. (2011)](Phd_unimib_047930.pdf). La deterninazione dei parametri di un nuovo modello distributivo per variabili non negative: aspetti metodologici e applicazioni. [Università di Milano-Bicocca](https://boa.unimib.it/handle/10281/25757).
+[Arcagni, Alberto (2011)](Phd_unimib_047930.pdf). La deterninazione dei parametri di un nuovo modello distributivo per variabili non negative: aspetti metodologici e applicazioni. [Università di Milano-Bicocca](https://boa.unimib.it/handle/10281/25757).
