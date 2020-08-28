@@ -8,7 +8,7 @@ title: Teaching
 
 Per l'anno accademico 2019/20 fare riferimento al [sito Sapienza](https://web.uniroma1.it/memotef/en/statistica-corso-base-corso-serale-arcagni).
 
-## Computational tools for finance
+## Computational Tools For Finance
 
 [Lectures](https://albertoarcagni.github.io/ComputationalToolsForFinance/) (under development).
 
