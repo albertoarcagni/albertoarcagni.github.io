@@ -10,7 +10,7 @@ navbar:
         href: "development.html"
       - text: "Teaching"
         href: "teaching.html"
-output_dir: "."
+output_dir: "docs"
 output:
   html_document:
     theme: default # yeti # sandstone # cosmo
