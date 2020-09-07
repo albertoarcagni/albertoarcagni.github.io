@@ -6,9 +6,17 @@ title: Teaching
 
 ## Statistica Corso Base (serale)
 
+[Edificio Economia, Aula 3, orario lezioni](https://corsidilaurea.uniroma1.it/cdlcontroller-orari-cdl/2020/30821):
+
+* lunedì dalle 18:00 alle 20:00;
+* martedì dalle 18:00 alle 20:00;
+* giovedì dalle 20:00 alle 22:00.
+
 Per l'anno accademico 2019/20 fare riferimento al [sito Sapienza](https://web.uniroma1.it/memotef/en/statistica-corso-base-corso-serale-arcagni).
 
 ## Computational Tools For Finance
+
+[Lesson time](https://corsidilaurea.uniroma1.it/cdlcontroller-orari-cdl/2020/30414): Tuesday from 14:00 to 16:00,  Aula Master - Economia.
 
 [Lectures](https://albertoarcagni.github.io/ComputationalToolsForFinance/) (under development).
 
