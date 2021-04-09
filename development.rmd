@@ -7,3 +7,4 @@ title: Software development
 * [sBF](https://cran.r-project.org/web/packages/sBF/index.html): Smooth Backfitting
 * [parsec](https://cran.r-project.org/web/packages/parsec/index.html): Partial Orders in Socio-Economics
 * [ineqJD](https://cran.r-project.org/web/packages/ineqJD/index.html): Inequality Joint Decomposition
+* [POSetR](https://cran.r-project.org/web/packages/POSetR/index.html): Partially Ordered Sets in R
