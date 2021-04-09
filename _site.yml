@@ -8,8 +8,8 @@ navbar:
         href: research.html
       - text: "Software development"
         href: "development.html"
-      - text: "Teaching"
-        href: "teaching.html"
+      # - text: "Teaching"
+      #   href: "teaching.html"
 output_dir: "docs"
 output:
   html_document:
